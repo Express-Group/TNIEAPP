@@ -1,0 +1,549 @@
+<!doctype html>
+<?php
+$Url=$this->uri->uri_string();
+$CI = &get_instance();
+$this->live_db = $CI->load->database('live_db', TRUE);
+$Section=$this->live_db->query("SELECT `Section_id`, `MenuVisibility`,`Sectionname`, `SectionnameInHTML`, `DisplayOrder`,`Section_landing`, `IsSeperateWebsite`, `URLSectionStructure` FROM `sectionmaster` WHERE `Status` =  1 and `MenuVisibility`=1 AND `ParentSectionID` is NULL ORDER BY `DisplayOrder` ASC;")->result();
+if($content_type==1){
+	if($content_from=="live"){
+		$Details=$this->live_db->query("SELECT title,url,summary_html,Section_id,article_page_content_html,article_page_image_path,article_page_image_title,agency_name,author_name,publish_start_date,last_updated_on,tags,status ,meta_Title FROM article WHERE content_id='".$content_id."' AND publish_start_date <=NOW()")->result();
+		$SectionID=@$Details[0]->Section_id;
+		$MoreArticle=$this->live_db->query("SELECT title,url,article_page_image_path FROM article WHERE Section_id='".$SectionID."' AND content_id!='".$content_id."' AND publish_start_date <=NOW() ORDER BY  last_updated_on DESC LIMIT 5")->result();
+		$prev_id =$this->live_db->query("CALL select_section_previous_article('".$content_id."','".$SectionID."', '".$content_type."', 'ORDER BY content_id DESC LIMIT 1')")->row_array();
+	}
+	if($content_from=="archive"){
+		$archive_db = $this->load->database('archive_db', TRUE);
+		$TableName='article_'.$year;
+		$Details=$archive_db->query("SELECT title,url,summary_html,Section_id,article_page_content_html,article_page_image_path,article_page_image_title,agency_name,author_name,publish_start_date,last_updated_on,tags,status , meta_Title FROM ".$TableName." WHERE content_id='".$content_id."' AND publish_start_date <=NOW()")->result();
+		$SectionID=@$Details[0]->Section_id;
+		$MoreArticle=$archive_db->query("SELECT title,url,article_page_image_path FROM ".$TableName." WHERE Section_id='".$SectionID."' AND content_id!='".$content_id."' AND publish_start_date <=NOW() ORDER BY  last_updated_on DESC LIMIT 5")->result();
+		$prev_id=array();
+		
+	}
+	
+
+
+}
+if(count($Details) > 0):
+		$published_date = date('dS  F Y h:i A' , strtotime($Details[0]->publish_start_date));
+		$pubDate = date('Y-m-d\TH:i:s\+05:30' , strtotime($Details[0]->publish_start_date));
+		$UpDate = date('Y-m-d\TH:i:s\+05:30' , strtotime($Details[0]->last_updated_on));
+		if ($Details[0]->article_page_image_path != '' && getimagesize(image_url_no . imagelibrary_image_path . $Details[0]->article_page_image_path)){
+			$imagedetails = getimagesize(image_url_no . imagelibrary_image_path.$Details[0]->article_page_image_path);
+			$imagewidth   = $imagedetails[0];
+			$imageheight  = $imagedetails[1];
+			if ($imageheight > $imagewidth){
+				$Image 	= $Details[0]->article_page_image_path;
+			}else{				
+				$Image 	= str_replace("original","w600X390", $Details[0]->article_page_image_path);
+			}
+		$image_path = '';
+		$image_path = image_url. imagelibrary_image_path . $Image;
+		}else{
+			$image_path	   = image_url. imagelibrary_image_path.'logo/nie_logo_600X390.jpg';
+			$imagewidth   = 600;
+			$imageheight  = 390;
+			$image_caption = '';	
+		}
+		$OriginalUrl    = base_url().$Details[0]->url;
+		$schemaDescription = stripcslashes(strip_tags($Details[0]->summary_html));
+		$schemaDescription = str_replace(['"' , "'" ,"\\"] ,['\u0022' ,'\u0027' , ''],$schemaDescription);
+		$JsonTags = str_replace("\\" , "" , strip_tags($Details[0]->tags));
+		$jsonTitle = addslashes(strip_tags($Details[0]->title));
+		$jsonTitle = trim(preg_replace('~[\r\n]+~', ' ', $jsonTitle));
+		$jsonTitle = str_replace(["\'" ] , ["'"] , $jsonTitle);
+		$jsonAuthor = ($Details[0]->author_name!='') ? $Details[0]->author_name : $Details[0]->agency_name;
+		$jsonAuthor = str_replace("\\" , "" , strip_tags($jsonAuthor));
+?>
+<html amp>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,minimal-ui">
+		<meta name="amp-consent-blocking" content="amp-ad">
+		<title><?php print strip_tags($Details[0]->meta_Title); ?> - The New Indian Express</title>
+		<script async src="https://cdn.ampproject.org/v0.js"></script>
+		<script async custom-element="amp-image-lightbox" src="https://cdn.ampproject.org/v0/amp-image-lightbox-0.1.js"></script>
+		<script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script>
+		<script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
+		<script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+		<script async custom-element="amp-twitter" src="https://cdn.ampproject.org/v0/amp-twitter-0.1.js"></script>	
+		<script async custom-element="amp-instagram" src="https://cdn.ampproject.org/v0/amp-instagram-0.1.js"></script>
+		<script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
+		<script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script> 
+		<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+		<script async custom-element="amp-sticky-ad" src="https://cdn.ampproject.org/v0/amp-sticky-ad-1.0.js"></script>
+		<script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
+		<script async custom-element="amp-facebook" src="https://cdn.ampproject.org/v0/amp-facebook-0.1.js"></script>
+		<script async custom-element="amp-dailymotion" src="https://cdn.ampproject.org/v0/amp-dailymotion-0.1.js"></script>
+		<script async custom-element="amp-soundcloud" src="https://cdn.ampproject.org/v0/amp-soundcloud-0.1.js"></script>
+		<script async custom-element="amp-audio" src="https://cdn.ampproject.org/v0/amp-audio-0.1.js"></script>
+		<script async custom-element='amp-web-push' src="https://cdn.ampproject.org/v0/amp-web-push-0.1.js"></script>
+		<script async custom-element="amp-consent" src="https://cdn.ampproject.org/v0/amp-consent-0.1.js"></script>
+		<?php if($Details[0]->Section_id==363):	?>
+		<script async custom-element="amp-live-list" src="https://cdn.ampproject.org/v0/amp-live-list-0.1.js"></script> 
+		<?php endif; ?>
+		<?php if($content_type==1 && strpos(stripslashes($Details[0]->article_page_content_html) ,'https://player.vimeo.com/video')!=false): ?>
+		<script async custom-element="amp-vimeo" src="https://cdn.ampproject.org/v0/amp-vimeo-0.1.js"></script>
+		<?php endif; ?>
+		<link rel="canonical" href="<?php print $OriginalUrl; ?>">
+		<link rel="shortcut icon" href="<?php print image_url; ?>images/FrontEnd/images/favicon.ico" type="image/x-icon" />
+		<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+		<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+		
+
+			<script type="application/ld+json">
+			{
+				"@context": "http:\/\/schema.org",
+				"@type": "NewsArticle",
+				"mainEntityOfPage": {
+					"@type": "WebPage",
+						"@id": "<?php echo $OriginalUrl; ?>"
+				},
+				"headline": "<?php echo $jsonTitle; ?>",
+				"description": "<?php print $schemaDescription; ?>",
+				"datePublished": "<?php echo $pubDate; ?>",
+				"dateModified": "<?php  echo $UpDate; ?>",
+				"publisher": {
+					"@type": "Organization",
+					"name": "New Indian Express",
+					"logo": {
+						"@type": "ImageObject",
+						"url": "<?php echo image_url; ?>images/FrontEnd/images/new_logo.jpg",
+						"width": "616",
+						"height": "81"
+					}
+				},
+				"inLanguage": "en",
+				"keywords": "<?php echo $JsonTags; ?>",
+				"author": {
+					"@type": "Person",
+					"name": "<?php echo $jsonAuthor; ?>"
+				},
+				"image": {
+					"@type": "ImageObject",
+					"url": "<?php echo $image_path ?>",
+					"width": "<?php echo @$imagewidth ?>",
+					"height": "<?php echo @$imageheight ?>"
+				}	
+			}		
+			</script>
+		<style amp-custom>
+			@font-face {font-family: Droid regular; src: url(<?php echo image_url ?>css/FrontEnd/fonts/DroidSerifFonts/droid-serif.regular.ttf);}
+			@font-face {font-family: Droid bold; src: url(<?php echo image_url ?>css/FrontEnd/fonts/DroidSerifFonts/DroidSerif-Bold.ttf);}
+			 body {font-family: "Droid regular", serif;line-height: 1.5;position:relative; }
+			.header{padding:6px 10px 3px;text-align:center;}
+			.article{padding:10px;/* background: #f9f9f9; */float:left; width: calc(100% - 20px);}
+			.articleImageContainer{margin:0;}
+			amp-image-lightbox.ampimagecontainer{background:white;}
+			figcaption{font-size:11px;padding: 5px;background: rgba(158, 158, 158, 0.31);}
+			.article_heading{margin-top:5px;margin-bottom: 8px; color: #000;font-size: 23px;font-weight: normal; font-family: Droid bold;line-height: 1.3;}
+			.social-icons{margin-bottom:9px;}
+			.author-details{margin: 0;font-size: 11px;margin-bottom: 5px;}
+			.menu-icon{text-align: left;float: left;margin-top: 5px;margin-left: 7px;}
+
+			#sidebar ul {margin: 0;padding: 0;list-style-type: none;}
+			#sidebar ul li{padding: 10px 31px 7px;border-bottom: 1px solid rgba(158, 158, 158, 0.13);}
+			#sidebar ul li a,#sidebar ul li a:hover,#sidebar ul li a:active,#sidebar ul li a:focus{color: #09155E;text-decoration: none;   font-family: 'Oswald', sans-serif;font-weight: bold;}
+			.close-event{float: right; width: 100%;text-align: right;padding: 9px;}
+			.tag_element{margin-left:8px;background: #fff;padding: 5px 13px 5px;border-radius: 12px;float:left;margin-bottom:6px;font-size: 13px;    border: 1px solid #ddd;}
+			.tag_element,.tag_element:active,.tag_element:focus,.tag_element:hover{text-decoration:none;color: #680101;font-weight: bold;}
+			.tag_heading,.tags,.more_article{float:left;}
+			.tags{padding:10px;/* background: #f9f9f9; */width:95%;}
+			.more_article,.footer{padding:10px;}
+			.more_article_row{width:100%;float:left;margin-bottom: 7px;border-bottom: 1px solid #e1e1e1;padding-bottom: 10px;}
+			.more_article_row amp-img{float:left;margin-right: 9px;}
+			.more_article_row a,.more_article_row a:hover,.more_article_row a:active,.more_article_row a:focus{color: #000;text-decoration: none;    font-size: 14px;line-height: 1.5;display: flex;}
+			.socialicons{margin-top: 5px;}
+			.footer{background: #505050;color:#55acee;float:left;font-size:13px;}
+			.footer_copyright{text-align:center;float:center;width:100%;margin-top:4px;}
+			.footer a{text-decoration:none;color:#ccc;}
+			.tag_heading{font-size: 15px;text-transform: uppercase;color: #09155E;margin-top: 5px;}
+			.amp-fixed{width: 100%;float: left;position: fixed;bottom: 0;background: #fff;height: 45px;box-shadow: -2px -2px 6px 0 rgba(0,0,0,.3);display:flex;}
+			.amp-fixed amp-social-share{float:left;margin-bottom:0;border-right: 1px solid #fff;flex: 1;}
+			#amp-next{width: 24%;float: left;background: #b3afaf;height: 45px;color: #fff;text-align: center;padding-top: 9px;text-decoration: none;}
+			.article blockquote{margin:0 auto;}
+			.articleImageContainer amp-img{border-top-left-radius: 8px;border-top-right-radius: 8px;}
+			.articleImageContainer figcaption{border-bottom-left-radius: 8px;border-bottom-right-radius: 8px;}
+			.nie-logo{margin-top: 3px;}
+			.refresh-list{background: #09155E; border: none;color: #fff;padding: 10px 14px 10px;border-radius: 5px;position:relative;}
+			.live-content{float: left;width: 87%;margin: 1%;background: #fff;padding: 5%;border-radius: 8px;border: 1px solid #ddd;margin-bottom: 6%;position:relative;}
+			.live-content .time{float: left;width: 100%;margin-bottom: 5px;color: #6b6565;font-size: 13px;}
+			.live-content .content_title{float: left;width: 100%;font-family: "Droid bold", serif;margin: 10px 0 10px;font-size: 18px;}
+			.live-content .content_description{float: left;width: 100%;font-size: 14px;line-height: 1.6;}
+			.live-socialicons{position: absolute;top: 0;right: 0;}
+			.live-fb{border-bottom-left-radius: 8px;}
+			.live-ti{border-top-right-radius: 8px;}
+			.live-update-t{margin: 1%;background: #f00;padding: 2% 5% 1%;color: #fff;text-align: center;text-transform: uppercase;}
+			.more_article h3{font-family: 'Oswald';}
+			.more_article h3::before{content: " ";width: 2px;height: 14px;border-left: 22px solid #09155E;display: inline-block;background: #fff;    border-right: 2px solid red;margin-right: 2%;}
+			amp-sidebar{background:#fff;}
+			.flip-fixed {position: fixed;bottom: -20%;width: 100%;right: -16px;}
+			.adv-div{align-items: center;display: flex;flex-direction: row;flex-wrap: wrap;justify-content: center;overflow: hidden;width: 100%;}
+			amp-youtube{width:100%;height:350px;margin-bottom:15px;} 
+			amp-sticky-ad{z-index:1;} 
+
+			.align-center-button{display:flex;align-items: center;justify-content:center;flex-direction: row;width:100%}amp-web-push-widget .subscribe{display: flex;flex-direction: row;align-items: center;border-radius:2px;border:1px solid #007ae2;margin:0;padding:8px 15px;cursor:pointer;outline:0;font-size:16px;font-weight:400;background:#0e82e5;color:#fff;-webkit-tap-highlight-color:transparent}amp-web-push-widget .unsubscribe{border-radius:2px;border:1px solid #b3b3b3;margin:0;padding:8px 15px;cursor:pointer;outline:0;font-size:15px;font-weight:400;background:#bdbdbd;color:#555;-webkit-tap-highlight-color:transparent}amp-web-push-widget .subscribe .subscribe-icon{margin-right:10px}amp-web-push-widget .subscribe:active{transform:scale(.99)}
+		</style>
+	
+   
+    
+	
+	</head>
+	<body><div style="max-width: 600px;margin: 0 auto;">
+		<amp-analytics type="googleanalytics">
+			<script type="application/json">
+			{
+				"vars": {
+				"account": "UA-2311935-30"
+				},
+				"triggers": {
+					"trackPageview": {
+						"on": "visible",
+						"request": "pageview"
+					}
+				}
+			}
+			</script>
+		</amp-analytics>
+
+		<amp-analytics type="comscore"> 
+		<script type="application/json">
+		{
+		"vars": {"c2": "16833363"},
+		"extraUrlParams": {"comscorekw": "amp"}
+		}
+		</script>
+		</amp-analytics> 
+		
+		<amp-sidebar id="sidebar" layout="nodisplay"  side="right" >
+			<div class="close-event">
+			<amp-img class="amp-close-image"
+			src="<?php print image_url; ?>images/FrontEnd/images/close_btn.png"
+			width="15"
+			height="15"
+			
+			alt="close sidebar"
+			on="tap:sidebar.close"
+			role="button"
+			tabindex="0"></amp-img>
+			</div>
+			<ul class="">
+				<?php
+					$m=1;
+					//print '<li><a href="'.BASEURL.'elections/elections-2019">Election</a></li>';
+
+					foreach($Section as $SectionDetails):
+						if(strip_tags($SectionDetails->SectionnameInHTML)=='Education'){
+							break;
+						}
+						if($SectionDetails->URLSectionStructure=="Home"){
+							$SectionUrl=BASEURL;
+						}else{
+							$SectionUrl=BASEURL.$SectionDetails->URLSectionStructure;
+						}
+						if($m < 13):
+							print '<li><a href="'.$SectionUrl.'">'.strip_tags($SectionDetails->SectionnameInHTML).'</a></li>';
+						endif;
+						$m++;
+					endforeach;
+				?>
+			</ul>
+		</amp-sidebar>
+		<div class="header">
+		<amp-img alt="NIE menu"
+			on="tap:sidebar.toggle"
+			src="<?php print image_url; ?>images/FrontEnd/images/hamburger_menu.png"
+			width="25"
+			height="30"
+			role="image"
+			tabindex="1"
+			class="menu-icon">
+		</amp-img>
+		<a href="<?php print BASEURL; ?>"><amp-img class="nie-logo" alt="NIE logo"
+			src="<?php print image_url; ?>images/FrontEnd/images/new_logo.jpg"
+			width="210"
+			height="27">
+		</amp-img></a>
+		</div>
+		<amp-consent id="googlefc" layout="nodisplay" type="googlefc"><script type="application/json">{"clientConfig":{"publisherIdentifier":"pub-4861350176551585"}}</script></amp-consent>
+		<article class="article">
+			<h2 class="article_heading"><?php print strip_tags($Details[0]->title); ?></h2>
+			<?php
+			if($Details[0]->author_name!=''){
+				print '<span class="author-details">By '.$Details[0]->author_name.'| </span>';
+			}
+			if($Details[0]->agency_name!=''){
+				print '<span class="author-details">'.$Details[0]->agency_name.' |</span>';
+			}
+			?>
+			<span class="author-details">Published: <?php print $published_date; ?></span>
+			<div class="socialicons">
+				<amp-social-share type="email" width="38" height="33" class="social-icons"></amp-social-share>
+				<amp-social-share type="facebook" data-param-app_id="1001847326609171" width="38" height="33" class="social-icons"></amp-social-share>
+				<amp-social-share type="gplus" width="38" height="33" class="social-icons"></amp-social-share>
+				<amp-social-share type="twitter" width="38" height="33" class="social-icons"></amp-social-share>
+			</div>
+			<?php if($Details[0]->article_page_image_path != ''): ?>
+			<figure class="articleImageContainer">
+				<amp-img on="tap:artilceImage" role="button" tabindex="0" src="<?php print $image_path; ?>" width="<?php echo $imagewidth; ?>" height="<?php echo $imageheight; ?>" layout="responsive"></amp-img>
+				<figcaption><?php print $Details[0]->article_page_image_title ?></figcaption>
+			</figure>
+			<?php endif; ?>			
+			<amp-image-lightbox class="ampimagecontainer" id="artilceImage" layout="nodisplay"></amp-image-lightbox>
+			<p class="adv-div">
+			<amp-ad width="300" height="250" type="doubleclick" data-slot="/3167926/NIE_AMP_ATF_300x250"   rtc-config='{"vendors": { "aps": {"PUB_ID": "600", "PUB_UUID": "c3703fef-358e-4353-a111-eb049ab39167", "PARAMS":{"amp":"1"}} }}'></amp-ad>
+			</p>
+			<?php
+			/* $Content= preg_replace('#(<[a-z ]*)(style=("|\')(.*?)("|\'))([a-z ]*>)#', '\\1\\6', $Details[0]->article_page_content_html);
+			$Content=str_replace(['<img','</img>'],['<amp-img width="320" height="200" layout="responsive"','</amp-img'],$Content);
+			$Content = preg_replace('/(<[^>]+) style=".*?"/i', '$1', $Content);
+			$Content = preg_replace('/style=\\"[^\\"]*\\"/', '', $Content);
+			$Content = preg_replace('/data-src=\\"[^\\"]*\\"/', '', $Content);
+			$Content = preg_replace('/(<[^>]+) onclick=".*?"/i', '$1', $Content);
+			$Content = preg_replace('/<g[^>]*>/i', '', $Content);
+			$Content = str_replace(['<pm.n>','<itc.ns>','</pm.n>','</itc.ns>'],'',$Content);
+			$Content = str_replace(['<p sourcefrom="ptitool">' , '<p sourcefrom=ptitool>'],'<p>',$Content);
+			$Content = str_replace('<p><iframe frameborder="0" height="500" scrolling="no" src="http://www.newindianexpress.com/embed/leadcontent/" style="width:100%;" width="630"></iframe></p>' ,'',$Content); 			
+			$Content = str_replace(['<iframe allowtransparency="true"','</iframe>'] ,['<amp-iframe layout="responsive" sandbox="allow-scripts allow-same-origin allow-popups"','</amp-iframe>'],$Content);
+			if($content_id==2104679){
+				$Content = str_replace('<iframe' ,'<amp-iframe layout="responsive" sandbox="allow-scripts allow-popups allow-forms "',$Content);
+			}else{
+				$Content = str_replace('<iframe' ,'<amp-iframe layout="responsive" sandbox="allow-scripts allow-same-origin allow-popups"',$Content);
+			}
+			
+			$Content = str_replace('width="100%"' , 'width="320px"' ,$Content);
+			$Content = str_replace('amp-width-custom' , 'width' ,$Content);
+			$Content = str_replace(['<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>' ,'<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>','<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>' , '<script async="" src="//platform.instagram.com/en_US/embeds.js"></script>','<script async src="//www.instagram.com/embed.js">'] ,['','','' ,'' ,''],$Content);
+			$Content = str_replace('<script src="https://public.flourish.studio/resources/embed.js"></script>' ,'',$Content);
+			$Content = str_replace('<p><amp-iframe layout="responsive" sandbox="allow-scripts allow-same-origin allow-popups" frameborder="0" height="500" scrolling="no" src="http://www.newindianexpress.com/embed/leadcontent/" width="630"></amp-iframe></p>' ,'',$Content);
+			$Content = str_replace(['http://images.newindianexpress.com' , 'http://www.newindianexpress.com'],['https://images.newindianexpress.com' , 'https://www.newindianexpress.com'] ,$Content);
+			
+			$html = new domDocument;
+			$html->loadHTML($Content);
+			$html->preserveWhiteSpace = false; 
+			$twitter = $html->getElementsByTagName('blockquote');
+			foreach ($twitter as $twitterTweet){
+				$className = $twitterTweet->getAttribute('class');
+				if($className=='twitter-tweet'){
+					$aTag = $twitterTweet->getElementsByTagName('a');
+					foreach($aTag as $TagId){
+						$tweetId = $TagId->getAttribute('href');
+						if($tweetId!=''){
+							$ID = explode('?',substr($tweetId , strripos($tweetId ,'/') + 1 , strlen($tweetId)));
+							$ID = $ID[0];
+							if(is_numeric($ID)){
+								$elementhtml = $html->saveHTML($twitterTweet);
+								$titleNode = $html->createElement("amp-twitter");
+								$titleNode->setAttribute('width','356');
+								$titleNode->setAttribute('height','415');
+								$titleNode->setAttribute('data-tweetid',$ID);
+								$twitterTweet->nodeValue = '';
+								$twitterTweet->appendChild($titleNode);
+							}
+							
+						}
+						
+					}
+				}else if($className=='instagram-media'){
+					$instaId = explode('/' , str_replace('https://www.instagram.com/p/','',$twitterTweet->getAttribute('data-instgrm-permalink')));
+					$instaId = $instaId[0];
+					$titleNode = $html->createElement("amp-instagram");
+					$titleNode->setAttribute('width','400');
+					$titleNode->setAttribute('height','400');
+					$titleNode->setAttribute('layout','responsive');
+					$titleNode->setAttribute('data-shortcode',$instaId);
+					$twitterTweet->nodeValue = '';
+					$twitterTweet->appendChild($titleNode);
+				}
+			}
+			$flourish = $html->getElementsByTagName('div');
+			foreach ($flourish as $flourishElement){
+				$className = $flourishElement->getAttribute('class');
+				if($className=='flourish-embed flourish-chart' ||$className =='flourish-embed'){
+					$flourishElement->setAttribute('class','none');
+					$flourishElement->nodeValue = '';
+				}
+			} 
+			$flourish = $html->getElementsByTagName('p');
+			foreach ($flourish as $flourishElement){
+				$className = $flourishElement->getAttribute('class');
+				if($className=='flourish-embed flourish-chart'){
+					$flourishElement->setAttribute('class','none');
+					$flourishElement->nodeValue = '';
+				}
+			} 
+			//print $Content;
+			$Content = $html->saveHTML();
+			$Content = str_replace(['<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">' ,'<html><body>' , '</body></html>'] ,['','',''] , $Content);
+			echo $Content; */
+			$content =  stripslashes($Details[0]->article_page_content_html);
+			//$content =  preg_replace('/<g>(.*)</g>/i', '$1', $content);
+			$content = preg_replace('/<g[^>]*>/i', '', $content);
+			$content = str_replace(['target="_blank"' , 'target="_BLANK"'] , ['' ,''] , $content);
+			$htmlContent = new domDocument;
+			$htmlContent->loadHTML(mb_convert_encoding($content, 'HTML-ENTITIES', 'UTF-8'));
+			$htmlContent->preserveWhiteSpace = false; 
+			$imgs = $htmlContent->getElementsByTagName('img');
+			foreach($imgs as $img){
+				$imgWidth = $img->getAttribute('width');
+				$imgHeight = $img->getAttribute('height');
+				if($imgWidth=='' || $imgWidth=='100%'){	$img->setAttribute('width','356');	}
+				if($imgHeight==''){	$img->setAttribute('height','250');	}
+			}
+				$content = $htmlContent->saveHTML();
+			 $content = str_replace(['<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">' ,'<html><body>' , '</body></html>'] ,['','',''] , $content); 
+			@$this->amp_library->loadcontent($content);
+			$fcHtml =  @$this->amp_library->ampHTML();
+			$html1 = new domDocument;
+			$html1->loadHTML(mb_convert_encoding($fcHtml, 'HTML-ENTITIES', 'UTF-8'));
+			$html1->preserveWhiteSpace = false; 
+			$ptag = $html1->getElementsByTagName('p');
+			$i=0;
+			foreach ($ptag as $p){
+				if($i==3){
+					$elementhtml = $html1->saveHTML($p);
+					$advContent = "<amp-ad width=\"300\" height=\"250\" type=\"doubleclick\" data-slot=\"/3167926/NIE_AMP_MID_300x250\"   rtc-config='{\"vendors\": { \"aps\": {\"PUB_ID\": \"600\", \"PUB_UUID\": \"c3703fef-358e-4353-a111-eb049ab39167\", \"PARAMS\":{\"amp\":\"1\"}} }}'>";
+					$titleNode = $html1->createElement("adv-block-widget-random");
+					$titleNode->setAttribute('class','adv-div');
+					$titleNode->nodeValue = $advContent;
+					$p->appendChild($titleNode);
+				}
+				$i++;
+			}
+			$splittedContent = str_replace(['<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">' ,'adv-block-widget-random'] ,["" ,"p"] , $html1->saveHTML());
+			$fscOcontent =  html_entity_decode($splittedContent);
+			echo $fscOcontent;
+			?>
+			<?php if($Details[0]->Section_id==363):	?>
+			<h5 class="live-update-t">Live Updates</h5>
+			<amp-live-list layout="container"
+				  data-poll-interval="15000"
+				  data-max-items-per-page="5"
+				  id="amp-live-list-insert-blog">
+				  <button update  on="tap:amp-live-list-insert-blog.update">You have updates</button>
+				  <div items>
+				  <?php
+					$FileName= $content_id.'.json';
+					$path=FCPATH.'application/views/LIVENOW/';
+					$Result=file_get_contents($path.$FileName);
+					$Result=json_decode($Result,true);
+					$Result=array_reverse($Result['details']);
+					$i=1;
+					foreach($Result as $Data){
+						if($Data['status']==1){
+							$Date=explode(' ',$Data['date']);
+							$Date=explode(':',$Date[1]);
+							$Date=$Date[0].':'.$Date[1];
+							$Time=strtotime($Data['date']);
+							$Time=Date('M j',$Time);
+							$Data['content'] = html_entity_decode($Data['content']);
+							$Content= preg_replace('#(<[a-z ]*)(style=("|\')(.*?)("|\'))([a-z ]*>)#', '\\1\\6', $Data['content']);
+							$Content = str_replace(['target="_blank"' , 'target="_BLANK"'] , ['' ,''] , $Content);
+							$ampContent = new domDocument;
+							$ampContent->loadHTML(mb_convert_encoding($Content, 'HTML-ENTITIES', 'UTF-8'));
+							$ampContent->preserveWhiteSpace = false; 
+							$imgs = $ampContent->getElementsByTagName('img');
+							foreach($imgs as $img){
+								$imgSrc = $img->getAttribute('src');
+								$imgWidth = $img->getAttribute('width');
+								$imgHeight = $img->getAttribute('height');
+								$img->setAttribute('src',str_replace(' ','%20' , $imgSrc));
+								if($imgWidth=='' || $imgWidth=='100%'){	$img->setAttribute('width','356');	}
+								if($imgHeight==''){	$img->setAttribute('height','250');	}
+							}
+							$Content = $ampContent->saveHTML();
+							$Content = str_replace(['<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">' ,'<html><body>' , '</body></html>'] ,['','',''] , $Content);
+							@$this->amp_library->loadcontent($Content);
+							$AmpHtml =  @$this->amp_library->ampHTML();
+							echo '<div id="post'.$i.'"   data-sort-time="'.strtotime($Data['date']).'"  class="blog-item live-content">';
+							echo '<div class="time">'.$Date.' '.$Time.'</div>';
+							echo '<h3 class="content_title">'.$Data['title'].'</h3>';
+							echo '<div class="content_description">'.$AmpHtml.'</div>';
+							echo '<div class="live-socialicons">';
+							echo '<amp-social-share class="live-fb" type="facebook" data-param-app_id="1001847326609171" width="30" height="29" ></amp-social-share>';
+							echo '<amp-social-share type="whatsapp" width="30" height="29"  data-param-text="CANONICAL_URL"></amp-social-share>';
+							echo '<amp-social-share class="live-ti" type="twitter" width="30" height="29" ></amp-social-share>';
+							echo '</div>';
+							echo '</div>';
+						}
+						$i++;
+					}
+					?>
+				  </div>
+			</amp-live-list>
+			<?php endif; ?>
+			<p class="adv-div"><amp-ad width="300" height="250" type="doubleclick" data-slot="/3167926/NIE_AMP_BTF_300x250"   rtc-config='{"vendors": { "aps": {"PUB_ID": "600", "PUB_UUID": "c3703fef-358e-4353-a111-eb049ab39167", "PARAMS":{"amp":"1"}} }}'></amp-ad></p>
+
+			
+		</article>
+		<amp-web-push id="amp-web-push" layout="nodisplay" helper-iframe-url="https://www.newindianexpress.com/helper-iframe.html" permission-dialog-url="https://www.newindianexpress.com/permission-dialog.html" service-worker-url="https://www.newindianexpress.com/service-worker.js" > </amp-web-push> <!-- Subscription widget --> <div class="align-center-button"> <amp-web-push-widget visibility="unsubscribed" layout="fixed" width="250" height="45"> <button class="subscribe" on="tap:amp-web-push.subscribe"> <amp-img class="subscribe-icon" width="18" height="18" layout="fixed" src="data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48dGl0bGU+UHVzaEFsZXJ0PC90aXRsZT48ZyBpZD0iRm9ybWFfMSIgZGF0YS1uYW1lPSJGb3JtYSAxIj48ZyBpZD0iRm9ybWFfMS0yIiBkYXRhLW5hbWU9IkZvcm1hIDEtMiI+PHBhdGggZD0iTTEzMi4wNywyNTBjMTguNjIsMCwzMy43MS0xMS41MywzMy43MS0yMUg5OC4zNkM5OC4zNiwyMzguNDIsMTEzLjQ2LDI1MCwxMzIuMDcsMjUwWk0yMTksMjAwLjUydjBhNTcuNDIsNTcuNDIsMCwwLDEtMTguNTQtNDIuMzFWMTE0LjcyYTY4LjM2LDY4LjM2LDAsMCwwLTQzLjI0LTYzLjU1VjM1LjlhMjUuMTYsMjUuMTYsMCwxLDAtNTAuMzIsMFY1MS4xN2E2OC4zNiw2OC4zNiwwLDAsMC00My4yMyw2My41NXY0My40NmE1Ny40Miw1Ny40MiwwLDAsMS0xOC41NCw0Mi4zMXYwYTEwLjQ5LDEwLjQ5LDAsMCwwLDYuNTcsMTguNjdIMjEyLjQzQTEwLjQ5LDEwLjQ5LDAsMCwwLDIxOSwyMDAuNTJaTTEzMi4wNyw0NS40MmExMS4zMywxMS4zMywwLDEsMSwxMS4zNi0xMS4zM0ExMS4zMywxMS4zMywwLDAsMSwxMzIuMDcsNDUuNDJabTczLjg3LTE3LjY3LTYuNDUsOS43OGE4My40Niw4My40NiwwLDAsMSwzNi4xNSw1NC43N2wxMS41My0yLjA2YTk1LjIzLDk1LjIzLDAsMCwwLTQxLjIzLTYyLjVoMFpNNjQuNDYsMzcuNTJMNTgsMjcuNzVhOTUuMjMsOTUuMjMsMCwwLDAtNDEuMjMsNjIuNWwxMS41MywyLjA2QTgzLjQ2LDgzLjQ2LDAsMCwxLDY0LjQ1LDM3LjU0aDBaIiBmaWxsPSIjZmZmIi8+PC9nPjwvZz48L3N2Zz4="> </amp-img> Subscribe to Notifications </button> </amp-web-push-widget> </div>
+		
+		<?php
+		if($Details[0]->tags!=''):
+				$Tags=explode(',',$Details[0]->tags);
+				print '<div class="tags">';
+					print '<a class="tag_heading"> Tags : </a>';
+				for($i=0;$i<count($Tags);$i++):
+					if($Tags[$i]!=''):
+						$tag_title = join( "_",( explode(" ", trim($Tags[$i]) ) ) );
+						$tag_url_title = preg_replace('/[^A-Za-z0-9\_]/', '', $tag_title); 
+						$TagUrl=BASEURL.'topic/'.$tag_url_title;
+						print '<a class="tag_element" href="'.$TagUrl.'">'.$Tags[$i].'</a>';
+					endif;
+				endfor;
+				print '</div>';
+			endif;
+			?>
+			<amp-sticky-ad layout="nodisplay">
+				<amp-ad width="320" height="50" type="doubleclick" data-slot="/3167926/NIE_AMP_Sticky_320x50"   rtc-config='{"vendors": { "aps": {"PUB_ID": "600", "PUB_UUID": "c3703fef-358e-4353-a111-eb049ab39167", "PARAMS":{"amp":"1"}} }}'></amp-ad>
+			</amp-sticky-ad>
+			<?php
+			print '<div class="more_article">';
+			if(count($MoreArticle) > 0){
+				print '<h3>More from this section</h3>';
+				foreach($MoreArticle as $MoreArticleDetails):
+					if($MoreArticleDetails->article_page_image_path==""){
+						$Image=image_url. imagelibrary_image_path.'logo/nie_logo_600X300.jpg';
+					}else{
+						$Image=image_url . imagelibrary_image_path.$MoreArticleDetails->article_page_image_path;
+					}
+					?>
+						<div class="more_article_row">
+						<amp-img on="tap:artilceImage" role="button" tabindex="0" src="<?php print $Image; ?>" width=100 height=67 ></amp-img>
+						<span><a href="<?php print BASEURL.str_replace('.html','.amp',$MoreArticleDetails->url); ?>"><?php print strip_tags($MoreArticleDetails->title); ?></a></span>
+						</div>
+					<?php
+				endforeach;
+			}
+			?>
+			
+			<?php
+			print '</div>';
+			?>
+			<p class="adv-div">
+			<amp-ad width=330 height=1554 type="doubleclick" data-slot="/3167926/NIE_AMP_Native_W1_330x1554"></amp-ad>
+			</p>
+			<p class="adv-div">
+				<amp-ad width=1 height=1 type="doubleclick" data-slot="/3167926/NIE_AMP_Interstitial_1x1">	</amp-ad>
+			</p>
+			<div class="footer">
+				<div class="footer_copyright">Copyrights New Indian Express.<?php print date('Y'); ?></div>
+				
+				<div class="footer_copyright"><a href="https://www.dinamani.com" target="_blank">Dinamani | </a><a href="https://www.kannadaprabha.com" target="_blank">Kannada Prabha | </a><a href="https://www.samakalikamalayalam.com" target="_blank">Samakalika Malayalam | </a><a href="http://www.malayalamvaarika.com" target="_blank">Malayalam Vaarika  | </a><a href="https://www.indulgexpress.com" target="_blank">Indulgexpress  | </a><a href="https://www.edexlive.com" target="_blank">Edex Live  | </a><a href="https://www.cinemaexpress.com" target="_blank">Cinema Express  | </a><a href="http://www.eventxpress.com" target="_blank">Event Xpress </a></div>
+				
+				<div class="footer_copyright"><a href="<?php print BASEURL?>contact-us">Contact Us | </a><a href="<?php print BASEURL?>careers">About Us | </a><a href="<?php print BASEURL?>about-us">Careers |  </a><a href="<?php print BASEURL?>privacy-policy">Privacy Policy | </a><a href="<?php print BASEURL?>topic">Search |  </a><a href="<?php print BASEURL?>terms-of-use">Terms of Use | </a><a href="<?php print BASEURL?>advertise-with-us">Advertise With Us </a></div>
+			</div>
+			<div class="amp-fixed">
+				<amp-social-share type="facebook" data-param-app_id="254325784911610" width="45" height="45" class="social-icons"></amp-social-share>
+				<amp-social-share type="twitter" width="45" height="45" class="social-icons"></amp-social-share>
+				<amp-social-share type="whatsapp" width="45" height="45"  data-param-text="CANONICAL_URL"></amp-social-share>
+				<?php
+					if(count($prev_id) > 0){
+						echo '<a href="'.BASEURL.str_replace('.html','.amp',$prev_id['url']).'" id="amp-next">Next >></a>';
+					}
+				?>
+			</div>
+		</div>	
+	</body>
+</html>
+<?php endif; ?>

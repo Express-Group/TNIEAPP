@@ -1,0 +1,1416 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+-
+- phpMyAdmin XML Dump
+- version 2.11.10.1
+- http://www.phpmyadmin.net
+-
+- Host: localhost
+- Generation Time: Feb 22, 2016 at 04:41 PM
+- Server version: 5.0.45
+- PHP Version: 5.1.6
+-->
+
+<!--
+- Database: 'niedb55'
+-->
+<niedb55>
+  <!-- Table Content -->
+    <Content>
+        <articleid>1945469</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM/&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Dinamani_Tamil_News_Dec-14.mp3&lt;/title&gt;&lt;href&gt;2013/12/14/17/Dinamani_Tamil_News_Dec-14.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST/&gt;&lt;TITLE&gt;&lt;![CDATA[Dinamani_Tamil_News_Dec-14.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-14 17:58:36</publishDate>
+        <lastModified>2013-12-14 17:58:36</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/14/Dinamani_Tamil_News_Dec-14.mp3/article1945469.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1946675</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM/&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Dinamani Tamil News Dec 15.mp3&lt;/title&gt;&lt;href&gt;2013/12/15/10/Dinamani+Tamil+News+Dec+15_1.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST/&gt;&lt;TITLE&gt;&lt;![CDATA[Dinamani Tamil News Dec 15.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-15 10:42:52</publishDate>
+        <lastModified>2013-12-15 10:44:59</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/15/Dinamani-Tamil-News-Dec-15.mp3/article1946675.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1948190</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM/&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Dinamani-Tamil-News-Dec16.mp3&lt;/title&gt;&lt;href&gt;2013/12/16/10/Dinamani-Tamil-News-Dec16.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST/&gt;&lt;TITLE&gt;&lt;![CDATA[Dinamani-Tamil-News-Dec16.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-16 10:44:03</publishDate>
+        <lastModified>2013-12-16 10:44:03</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/16/Dinamani-Tamil-News-Dec16.mp3/article1948190.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1948410</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM/&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani-news-dec16-2pm.mp3&lt;/title&gt;&lt;href&gt;2013/12/16/14/dinamani-news-dec16-2pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST/&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani-news-dec16-2pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-16 14:52:44</publishDate>
+        <lastModified>2013-12-16 14:52:44</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/16/dinamani-news-dec16-2pm.mp3/article1948410.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1948630</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM/&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news dec16-6PM.mp3&lt;/title&gt;&lt;href&gt;2013/12/16/17/dinamani+news+dec16-6PM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST/&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news dec16-6PM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-16 17:54:32</publishDate>
+        <lastModified>2013-12-16 17:54:32</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/16/dinamani-news-dec16-6PM.mp3/article1948630.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1949979</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM/&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Dinamani News Dec 17 - 10 AM.mp3&lt;/title&gt;&lt;href&gt;2013/12/17/10/Dinamani+News+Dec+17+-+10+AM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST/&gt;&lt;TITLE&gt;&lt;![CDATA[Dinamani News Dec 17 - 10 AM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-17 10:34:37</publishDate>
+        <lastModified>2013-12-17 10:36:55</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/17/Dinamani-News-Dec-17---10-AM.mp3/article1949979.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1950232</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM/&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Dinamani News Dec 17 - 2 PM.mp3&lt;/title&gt;&lt;href&gt;2013/12/17/14/Dinamani+News+Dec+17+-+2+PM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST/&gt;&lt;TITLE&gt;&lt;![CDATA[Dinamani News Dec 17 - 2 PM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-17 14:56:34</publishDate>
+        <lastModified>2013-12-17 14:56:34</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/17/Dinamani-News-Dec-17---2-PM.mp3/article1950232.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1950368</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM/&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Dinamani News Dec 17 - 6 PM.mp3&lt;/title&gt;&lt;href&gt;2013/12/17/16/Dinamani+News+Dec+17+-+6+PM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST/&gt;&lt;TITLE&gt;&lt;![CDATA[Dinamani News Dec 17 - 6 PM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-17 17:04:19</publishDate>
+        <lastModified>2013-12-17 17:04:19</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/17/Dinamani-News-Dec-17---6-PM.mp3/article1950368.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1951871</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM/&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Dinamani News Dec 18-10AM.mp3&lt;/title&gt;&lt;href&gt;2013/12/18/10/Dinamani+News+Dec+18-10AM_1.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST/&gt;&lt;TITLE&gt;&lt;![CDATA[Dinamani News Dec 18-10AM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-18 10:26:47</publishDate>
+        <lastModified>2013-12-18 10:26:47</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/18/Dinamani-News-Dec-18-10AM.mp3/article1951871.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1952025</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM/&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Dinamani News Dec 18 -2 PM.mp3&lt;/title&gt;&lt;href&gt;2013/12/18/13/Dinamani+News+Dec+18+-2+PM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST/&gt;&lt;TITLE&gt;&lt;![CDATA[Dinamani News Dec 18 -2 PM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-18 14:00:21</publishDate>
+        <lastModified>2013-12-18 14:00:21</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/18/Dinamani-News-Dec-18--2-PM.mp3/article1952025.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1952055</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[Margazhi Vazhipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Margazhi_vazhipadu_Day1.mp3&lt;/title&gt;&lt;href&gt;2013/12/18/14/Margazhi_vazhipadu_Day1.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Senkottai Sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Margazhi_vazhipadu_Day1.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-18 14:24:23</publishDate>
+        <lastModified>2013-12-20 10:19:37</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/18/Margazhi_vazhipadu_Day1.mp3/article1952055.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1952060</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[Margazhi Vazhipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Margazhi_vazhipadu_Day3.mp3&lt;/title&gt;&lt;href&gt;2013/12/18/14/Margazhi_vazhipadu_Day3.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Senkottai Sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Margazhi_vazhipadu_Day3.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-18 14:28:11</publishDate>
+        <lastModified>2013-12-20 10:19:22</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/18/Margazhi_vazhipadu_Day3.mp3/article1952060.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1952056</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[Margazhi Vazhipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Margazhi_vazhipadu_Day2.mp3&lt;/title&gt;&lt;href&gt;2013/12/18/14/Margazhi_vazhipadu_Day2.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Senkottai Sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Margazhi_vazhipadu_Day2.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-18 14:28:15</publishDate>
+        <lastModified>2013-12-20 10:19:31</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/18/Margazhi_vazhipadu_Day2.mp3/article1952056.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1952227</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM/&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Dinamani News Dec 18 - 6PM.mp3&lt;/title&gt;&lt;href&gt;2013/12/18/16/Dinamani+News+Dec+18+-+6PM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST/&gt;&lt;TITLE&gt;&lt;![CDATA[Dinamani News Dec 18 - 6PM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-18 17:00:34</publishDate>
+        <lastModified>2013-12-18 17:00:34</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/18/Dinamani-News-Dec-18---6PM.mp3/article1952227.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1952558</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[Margazhi Vazhipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Margazhi_vazhipadu_Day4.mp3&lt;/title&gt;&lt;href&gt;2013/12/18/23/Margazhi_vazhipadu_Day4.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Senkottai Sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Margazhi_vazhipadu_Day4.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-18 23:44:19</publishDate>
+        <lastModified>2013-12-20 10:19:16</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/18/Margazhi_vazhipadu_Day4.mp3/article1952558.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1953649</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM/&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Dinamani News Dec19 - 10 AM.mp3&lt;/title&gt;&lt;href&gt;2013/12/19/9/Dinamani+News+Dec19+-+10+AM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST/&gt;&lt;TITLE&gt;&lt;![CDATA[Dinamani News Dec19 - 10 AM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-19 09:52:33</publishDate>
+        <lastModified>2013-12-19 09:53:23</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/19/Dinamani-News-Dec19---10-AM.mp3/article1953649.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1953895</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM/&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Dinamani News Dec 19-2PM.mp3&lt;/title&gt;&lt;href&gt;2013/12/19/14/Dinamani+News+Dec+19-2PM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST/&gt;&lt;TITLE&gt;&lt;![CDATA[Dinamani News Dec 19-2PM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-19 14:43:22</publishDate>
+        <lastModified>2013-12-19 14:43:22</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/19/Dinamani-News-Dec-19-2PM.mp3/article1953895.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1954082</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[Dinamani News Dec 19]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Dinamani New dec 19 - 5 pm.mp3&lt;/title&gt;&lt;href&gt;2013/12/19/16/Dinamani+New+dec+19+-+5+pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[VaniSri Sivakumar]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Dinamani New dec 19 - 5 pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-19 16:53:32</publishDate>
+        <lastModified>2013-12-19 16:54:13</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/19/Dinamani-New-dec-19---5-pm.mp3/article1954082.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1954913</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[Margazhi Vazhipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Margazhi_Vazhipadu_Day 5.mp3&lt;/title&gt;&lt;href&gt;2013/12/20/2/Margazhi_Vazhipadu_Day+5_1.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Senkottai Sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Margazhi_Vazhipadu_Day 5.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-20 02:26:32</publishDate>
+        <lastModified>2013-12-20 10:18:50</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/20/Margazhi_Vazhipadu_Day-5.mp3/article1954913.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1955659</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM/&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;DinamaniNews Dec 20 - 10AM.mp3&lt;/title&gt;&lt;href&gt;2013/12/20/10/DinamaniNews+Dec+20+-+10AM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Senkottai Sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[DinamaniNews Dec 20 - 10AM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-20 10:16:29</publishDate>
+        <lastModified>2013-12-20 10:17:42</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/20/DinamaniNews-Dec-20---10AM.mp3/article1955659.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1955873</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM/&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Dinamani News dec 20 - 2PM.mp3&lt;/title&gt;&lt;href&gt;2013/12/20/14/Dinamani+News+dec+20+-+2PM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST/&gt;&lt;TITLE&gt;&lt;![CDATA[Dinamani News dec 20 - 2PM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-20 14:38:56</publishDate>
+        <lastModified>2013-12-20 14:38:56</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/20/Dinamani-News-dec-20---2PM.mp3/article1955873.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1956052</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[Dinamani News]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Dinamani News Dec 20 - 6PM.mp3&lt;/title&gt;&lt;href&gt;2013/12/20/17/Dinamani+News+Dec+20+-+6PM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Senkottai Sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Dinamani News Dec 20 - 6PM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-20 17:38:35</publishDate>
+        <lastModified>2013-12-20 17:40:07</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/20/Dinamani-News-Dec-20---6PM.mp3/article1956052.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1956549</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;Thiruppavai Andal&lt;/caption&gt;&lt;alttext&gt;Thirupavai&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[MARGAZHI VAZHIPADU]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Margazhi_Vazhipadu_Day6.mp3&lt;/title&gt;&lt;href&gt;2013/12/21/0/Margazhi_Vazhipadu_Day6.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[SENKOTTAI SRIRAM]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Margazhi_Vazhipadu_Day6.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-21 00:56:13</publishDate>
+        <lastModified>2013-12-21 08:33:13</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/21/Margazhi_Vazhipadu_Day6.mp3/article1956549.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1957513</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[Dinamani News]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;DinamaniNews Dec 21 - 10 AM.mp3&lt;/title&gt;&lt;href&gt;2013/12/21/10/DinamaniNews+Dec+21+-+10+AM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST/&gt;&lt;TITLE&gt;&lt;![CDATA[DinamaniNews Dec 21 - 10 AM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-21 10:35:25</publishDate>
+        <lastModified>2013-12-21 10:37:03</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/21/DinamaniNews-Dec-21---10-AM.mp3/article1957513.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1957714</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[Dinamani News]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Dinamani News dec 21 - 2 PM.mp3&lt;/title&gt;&lt;href&gt;2013/12/21/14/Dinamani+News+dec+21+-+2+PM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Parvathi Arunkumar]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Dinamani News dec 21 - 2 PM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-21 14:51:13</publishDate>
+        <lastModified>2013-12-21 14:54:16</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/21/Dinamani-News-dec-21---2-PM.mp3/article1957714.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1957834</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Dinamani News dec 21 - 5 PM.mp3&lt;/title&gt;&lt;href&gt;2013/12/21/16/Dinamani+News+dec+21+-+5+PM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Vanisri Sivakumar]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Dinamani News dec 21 - 5 PM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-21 16:59:13</publishDate>
+        <lastModified>2013-12-21 16:59:13</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/21/Dinamani-News-dec-21---5-PM.mp3/article1957834.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1958467</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;04d768fb-d7f9-438f-9ea9-21b2e94050f5&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;thirup_album.jpg&lt;/title&gt;&lt;leadtext&gt;&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;thirup_album.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1958480&lt;/href&gt;&lt;relation&gt;related&lt;/relation&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[Margazhi Vazhipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Margazhi_vazhipadu_Day7.mp3&lt;/title&gt;&lt;href&gt;2013/12/22/1/Margazhi_vazhipadu_Day7.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Senkottai Sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Margazhi_vazhipadu_Day7.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-22 01:55:24</publishDate>
+        <lastModified>2013-12-22 01:59:03</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/22/Margazhi_vazhipadu_Day7.mp3/article1958467.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1959301</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Dinamani News Dec 22 - 10 AM.mp3&lt;/title&gt;&lt;href&gt;2013/12/22/10/Dinamani+News+Dec+22+-+10+AM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Senkottai Sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Dinamani News Dec 22 - 10 AM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-22 10:51:23</publishDate>
+        <lastModified>2013-12-22 10:51:23</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/22/Dinamani-News-Dec-22---10-AM.mp3/article1959301.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1959443</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Dinamani news dec 22 - 2 pm.mp3&lt;/title&gt;&lt;href&gt;2013/12/22/15/Dinamani+news+dec+22+-+2+pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Somasundaram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Dinamani news dec 22 - 2 pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-22 15:16:21</publishDate>
+        <lastModified>2013-12-22 15:16:31</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/22/Dinamani-news-dec-22---2-pm.mp3/article1959443.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1959545</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[Margazhi Vazipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Margazhi_vazhipadu_Day8.mp3&lt;/title&gt;&lt;href&gt;2013/12/22/17/Margazhi_vazhipadu_Day8.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Senkottai Sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Margazhi_vazhipadu_Day8.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-22 17:21:17</publishDate>
+        <lastModified>2013-12-22 17:21:49</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/22/Margazhi_vazhipadu_Day8.mp3/article1959545.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1959624</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[Dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Dinamani News dec 22-6PM.mp3&lt;/title&gt;&lt;href&gt;2013/12/22/19/Dinamani+News+dec+22-6PM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Harini Sundarrajan]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Dinamani News dec 22-6PM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-22 19:45:39</publishDate>
+        <lastModified>2013-12-22 19:46:00</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/22/Dinamani-News-dec-22-6PM.mp3/article1959624.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1960944</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[Dinamani News]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;DinamaniNewsDec23-10AM.mp3&lt;/title&gt;&lt;href&gt;2013/12/23/9/DinamaniNewsDec23-10AM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Senkottai Sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[DinamaniNewsDec23-10AM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-23 09:18:53</publishDate>
+        <lastModified>2013-12-23 09:18:53</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/23/DinamaniNewsDec23-10AM.mp3/article1960944.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1961231</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Dinamani News Dec 23-2PM.mp3&lt;/title&gt;&lt;href&gt;2013/12/23/14/Dinamani+News+Dec+23-2PM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Somasundaram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Dinamani News Dec 23-2PM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-23 14:49:59</publishDate>
+        <lastModified>2013-12-23 14:50:12</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/23/Dinamani-News-Dec-23-2PM.mp3/article1961231.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1961356</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Dinamani news dec23-6PM.mp3&lt;/title&gt;&lt;href&gt;2013/12/23/17/Dinamani+news+dec23-6PM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Vanisri sivakumar]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Dinamani news dec23-6PM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-23 17:38:11</publishDate>
+        <lastModified>2013-12-23 17:38:11</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/23/Dinamani-news-dec23-6PM.mp3/article1961356.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1961954</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[margazhi vazhipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Margazhi_Vazhipadu_Day9.mp3&lt;/title&gt;&lt;href&gt;2013/12/24/1/Margazhi_Vazhipadu_Day9.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Senkottai Sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Margazhi_Vazhipadu_Day9.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-24 01:57:07</publishDate>
+        <lastModified>2013-12-24 02:00:14</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/24/Margazhi_Vazhipadu_Day9.mp3/article1961954.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1962774</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[margazhi vazhipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Margazhi_Vazhipadu_Day9.mp3&lt;/title&gt;&lt;href&gt;2013/12/24/7/Margazhi_Vazhipadu_Day9.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Senkottai Sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Margazhi_Vazhipadu_Day9.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-24 07:13:45</publishDate>
+        <lastModified>2013-12-24 10:33:03</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/24/Margazhi_Vazhipadu_Day9.mp3/article1962774.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1962886</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;DinamaniNews-Dec24-10AM.mp3&lt;/title&gt;&lt;href&gt;2013/12/24/10/DinamaniNews-Dec24-10AM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Senkottai Sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[DinamaniNews-Dec24-10AM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-24 10:21:00</publishDate>
+        <lastModified>2013-12-24 10:21:20</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/24/DinamaniNews-Dec24-10AM.mp3/article1962886.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1963104</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani_news_dec24-2PM.mp3&lt;/title&gt;&lt;href&gt;2013/12/24/14/dinamani_news_dec24-2PM_1.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Somasundaram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani_news_dec24-2PM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-24 14:25:07</publishDate>
+        <lastModified>2013-12-24 14:26:16</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/24/dinamani_news_dec24-2PM.mp3/article1963104.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1963243</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[Margazhi Vazhpadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;MargazhiVazhipadu-Day10.mp3&lt;/title&gt;&lt;href&gt;2013/12/24/16/MargazhiVazhipadu-Day10.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Senkottai Sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[MargazhiVazhipadu-Day10.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-24 16:22:23</publishDate>
+        <lastModified>2013-12-24 16:23:06</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/24/MargazhiVazhipadu-Day10.mp3/article1963243.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1963256</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[Dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Dinamani News Dec24-5PM.mp3&lt;/title&gt;&lt;href&gt;2013/12/24/16/Dinamani+News+Dec24-5PM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Vanisri Sivakumar]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Dinamani News Dec24-5PM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-24 16:43:10</publishDate>
+        <lastModified>2013-12-24 16:43:10</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/24/Dinamani-News-Dec24-5PM.mp3/article1963256.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1963366</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[margazhi vazipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Margazhi_Vazhipadu_Day11.mp3&lt;/title&gt;&lt;href&gt;2013/12/24/20/Margazhi_Vazhipadu_Day11.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Margazhi_Vazhipadu_Day11.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-24 20:20:31</publishDate>
+        <lastModified>2013-12-24 20:20:59</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/24/Margazhi_Vazhipadu_Day11.mp3/article1963366.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1964560</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news dec 25-10am.mp3&lt;/title&gt;&lt;href&gt;2013/12/25/10/dinamani+news+dec+25-10am.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Senkottai Sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news dec 25-10am.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-25 10:50:22</publishDate>
+        <lastModified>2013-12-25 10:50:33</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/25/dinamani-news-dec-25-10am.mp3/article1964560.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1964704</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Dinamani news dec25-2PM.mp3&lt;/title&gt;&lt;href&gt;2013/12/25/14/Dinamani+news+dec25-2PM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Somasundaram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Dinamani news dec25-2PM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-25 14:07:55</publishDate>
+        <lastModified>2013-12-25 14:07:55</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/25/Dinamani-news-dec25-2PM.mp3/article1964704.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1964866</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news dec25-6pm.mp3&lt;/title&gt;&lt;href&gt;2013/12/25/17/dinamani+news+dec25-6pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Vanisri Sivakumar]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news dec25-6pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-25 17:09:57</publishDate>
+        <lastModified>2013-12-25 17:09:57</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/25/dinamani-news-dec25-6pm.mp3/article1964866.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1966175</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Dinamani News dec 26 - 10 AM.mp3&lt;/title&gt;&lt;href&gt;2013/12/26/10/Dinamani+News+dec+26+-+10+AM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Dinamani News dec 26 - 10 AM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-26 10:13:55</publishDate>
+        <lastModified>2013-12-26 10:14:16</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/26/Dinamani-News-dec-26---10-AM.mp3/article1966175.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1966345</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news dec 26-2pm.mp3&lt;/title&gt;&lt;href&gt;2013/12/26/14/dinamani+news+dec+26-2pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Somasundaram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news dec 26-2pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-26 14:17:41</publishDate>
+        <lastModified>2013-12-26 14:17:56</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/26/dinamani-news-dec-26-2pm.mp3/article1966345.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1966503</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news dec 26-6pm.mp3&lt;/title&gt;&lt;href&gt;2013/12/26/17/dinamani+news+dec+26-6pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[VaniSri Sivakumar]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news dec 26-6pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-26 17:08:35</publishDate>
+        <lastModified>2013-12-26 17:08:35</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/26/dinamani-news-dec-26-6pm.mp3/article1966503.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1966663</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[Margazhi vazhipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Margazhi_vazhipadu_day12.mp3&lt;/title&gt;&lt;href&gt;2013/12/26/21/Margazhi_vazhipadu_day12.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Senkottai Sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Margazhi_vazhipadu_day12.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-26 21:21:09</publishDate>
+        <lastModified>2013-12-26 21:22:32</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/26/Margazhi_vazhipadu_day12.mp3/article1966663.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1967871</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news dec 27-10AM.mp3&lt;/title&gt;&lt;href&gt;2013/12/27/10/dinamani+news+dec+27-10AM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news dec 27-10AM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-27 10:40:23</publishDate>
+        <lastModified>2013-12-27 10:40:23</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/27/dinamani-news-dec-27-10AM.mp3/article1967871.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1968053</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news dec 27-2pm.mp3&lt;/title&gt;&lt;href&gt;2013/12/27/14/dinamani+news+dec+27-2pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[somasundaram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news dec 27-2pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-27 14:21:36</publishDate>
+        <lastModified>2013-12-27 14:21:36</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/27/dinamani-news-dec-27-2pm.mp3/article1968053.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1968235</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[margazhi vazipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;MargazhiVazhipadu-Day13.mp3&lt;/title&gt;&lt;href&gt;2013/12/27/16/MargazhiVazhipadu-Day13.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[MargazhiVazhipadu-Day13.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-27 16:05:29</publishDate>
+        <lastModified>2013-12-27 17:11:10</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/27/MargazhiVazhipadu-Day13.mp3/article1968235.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1968359</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani-news dec27-6pm.mp3&lt;/title&gt;&lt;href&gt;2013/12/27/18/dinamani-news+dec27-6pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[parvathi arunkumar]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani-news dec27-6pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-27 18:36:47</publishDate>
+        <lastModified>2013-12-27 18:37:06</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/27/dinamani-news-dec27-6pm.mp3/article1968359.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1969755</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news dec 28 - 10 AM.mp3&lt;/title&gt;&lt;href&gt;2013/12/28/11/dinamani+news+dec+28+-+10+AM_1.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Senkottai Sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news dec 28 - 10 AM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-28 11:38:54</publishDate>
+        <lastModified>2013-12-28 11:38:54</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/28/dinamani-news-dec-28---10-AM.mp3/article1969755.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1969950</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news dec28-2pm.mp3&lt;/title&gt;&lt;href&gt;2013/12/28/15/dinamani+news+dec28-2pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[parvathi arunkumar]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news dec28-2pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-28 15:18:25</publishDate>
+        <lastModified>2013-12-28 15:18:25</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/28/dinamani-news-dec28-2pm.mp3/article1969950.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1970169</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news dec28-6pm.mp3&lt;/title&gt;&lt;href&gt;2013/12/28/18/dinamani+news+dec28-6pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[vanisri sivakumar]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news dec28-6pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-28 18:11:47</publishDate>
+        <lastModified>2013-12-28 18:11:47</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/28/dinamani-news-dec28-6pm.mp3/article1970169.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1970377</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[margazhi vazhipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Margazhi vazhipadu Day-14.mp3&lt;/title&gt;&lt;href&gt;2013/12/28/23/Margazhi+vazhipadu+Day-14.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Senkottai Sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Margazhi vazhipadu Day-14.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-29 00:00:05</publishDate>
+        <lastModified>2013-12-29 00:00:05</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/29/Margazhi-vazhipadu-Day-14.mp3/article1970377.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1971384</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news dec 29 - 10AM.mp3&lt;/title&gt;&lt;href&gt;2013/12/29/11/dinamani+news+dec+29+-+10AM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Senkottai Sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news dec 29 - 10AM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-29 11:37:37</publishDate>
+        <lastModified>2013-12-29 11:37:37</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/29/dinamani-news-dec-29---10AM.mp3/article1971384.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1971483</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news dec 29-2pm.mp3&lt;/title&gt;&lt;href&gt;2013/12/29/15/dinamani+news+dec+29-2pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[somasundaram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news dec 29-2pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-29 15:11:37</publishDate>
+        <lastModified>2013-12-29 15:11:37</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/29/dinamani-news-dec-29-2pm.mp3/article1971483.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1971705</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news dec29-8pm.mp3&lt;/title&gt;&lt;href&gt;2013/12/29/21/dinamani+news+dec29-8pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[harini sundarajan]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news dec29-8pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-29 21:21:23</publishDate>
+        <lastModified>2013-12-30 11:09:52</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/29/dinamani-news-dec29-8pm.mp3/article1971705.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1972057</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[margazhi vazhipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Margazhi vazhipadu Day 15.mp3&lt;/title&gt;&lt;href&gt;2013/12/30/0/Margazhi+vazhipadu+Day+15.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[Senkottai Sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Margazhi vazhipadu Day 15.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-30 00:53:36</publishDate>
+        <lastModified>2013-12-30 00:53:36</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/30/Margazhi-vazhipadu-Day-15.mp3/article1972057.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1973158</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news dec 30 - 10am.mp3&lt;/title&gt;&lt;href&gt;2013/12/30/10/dinamani+news+dec+30+-+10am_1.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news dec 30 - 10am.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-30 11:09:35</publishDate>
+        <lastModified>2013-12-30 11:09:35</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/30/dinamani-news-dec-30---10am.mp3/article1973158.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1973538</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamaninews_dec30_6pm.mp3&lt;/title&gt;&lt;href&gt;2013/12/30/18/dinamaninews_dec30_6pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamaninews_dec30_6pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-30 18:37:24</publishDate>
+        <lastModified>2013-12-30 18:37:24</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/30/dinamaninews_dec30_6pm.mp3/article1973538.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1974037</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[margazhi vazipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Margazhi Vazhipadu Day-16.mp3&lt;/title&gt;&lt;href&gt;2013/12/31/1/Margazhi+Vazhipadu+Day-16.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Margazhi Vazhipadu Day-16.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-31 01:24:24</publishDate>
+        <lastModified>2013-12-31 01:24:24</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/31/Margazhi-Vazhipadu-Day-16.mp3/article1974037.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1975020</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news dec 31-10AM.mp3&lt;/title&gt;&lt;href&gt;2013/12/31/11/dinamani+news+dec+31-10AM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news dec 31-10AM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-31 11:40:15</publishDate>
+        <lastModified>2013-12-31 11:40:15</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/31/dinamani-news-dec-31-10AM.mp3/article1975020.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1975289</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news dec 31-6 PM.mp3&lt;/title&gt;&lt;href&gt;2013/12/31/17/dinamani+news+dec+31-6+PM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[vanisri sivakumar ]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news dec 31-6 PM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2013-12-31 17:04:19</publishDate>
+        <lastModified>2013-12-31 17:04:19</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2013/12/31/dinamani-news-dec-31-6-PM.mp3/article1975289.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1976535</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[margazhi vazipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Margazhi Vazipadu day-17.mp3&lt;/title&gt;&lt;href&gt;2014/1/1/6/Margazhi+Vazipadu+day-17.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Margazhi Vazipadu day-17.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-01 06:52:57</publishDate>
+        <lastModified>2014-01-01 06:54:21</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/01/Margazhi-Vazipadu-day-17.mp3/article1976535.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1976638</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan1-10AM.mp3&lt;/title&gt;&lt;href&gt;2014/1/1/10/dinamani+news+jan1-10AM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan1-10AM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-01 11:04:39</publishDate>
+        <lastModified>2014-01-01 11:06:37</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/01/dinamani-news-jan1-10AM.mp3/article1976638.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1976810</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan1-2pm.mp3&lt;/title&gt;&lt;href&gt;2014/1/1/15/dinamani+news+jan1-2pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[somasundaram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan1-2pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-01 15:15:57</publishDate>
+        <lastModified>2014-01-01 15:15:57</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/01/dinamani-news-jan1-2pm.mp3/article1976810.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1976919</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan1-6pm.mp3&lt;/title&gt;&lt;href&gt;2014/1/1/17/dinamani+news+jan1-6pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[vanisri sivakumar]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan1-6pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-01 17:06:48</publishDate>
+        <lastModified>2014-01-01 17:07:28</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/01/dinamani-news-jan1-6pm.mp3/article1976919.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1977301</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[margazhi vazhipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Margazi Vazhipadu Day-18.mp3&lt;/title&gt;&lt;href&gt;2014/1/2/0/Margazi+Vazhipadu+Day-18.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Margazi Vazhipadu Day-18.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-02 00:34:08</publishDate>
+        <lastModified>2014-01-02 00:34:27</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/02/Margazi-Vazhipadu-Day-18.mp3/article1977301.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1978351</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan2-10am.mp3&lt;/title&gt;&lt;href&gt;2014/1/2/10/dinamani+news+jan2-10am.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan2-10am.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-02 10:56:02</publishDate>
+        <lastModified>2014-01-02 10:56:02</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/02/dinamani-news-jan2-10am.mp3/article1978351.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1978697</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan2-6pm.mp3&lt;/title&gt;&lt;href&gt;2014/1/2/17/dinamani+news+jan2-6pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[vanisri sivakumar]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan2-6pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-02 17:10:10</publishDate>
+        <lastModified>2014-01-02 17:10:10</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/02/dinamani-news-jan2-6pm.mp3/article1978697.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1979217</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[margazhi vazhipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Margazhi Vazhipadu day-19.mp3&lt;/title&gt;&lt;href&gt;2014/1/3/0/Margazhi+Vazhipadu+day-19.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Margazhi Vazhipadu day-19.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-03 00:53:01</publishDate>
+        <lastModified>2014-01-03 00:53:42</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/03/Margazhi-Vazhipadu-day-19.mp3/article1979217.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1980298</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan3-10AM.mp3&lt;/title&gt;&lt;href&gt;2014/1/3/10/dinamani+news+jan3-10AM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan3-10AM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-03 10:32:30</publishDate>
+        <lastModified>2014-01-03 10:32:30</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/03/dinamani-news-jan3-10AM.mp3/article1980298.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1980606</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan3-2pm.mp3&lt;/title&gt;&lt;href&gt;2014/1/3/15/dinamani+news+jan3-2pm_1.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[somasundaram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan3-2pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-03 15:38:52</publishDate>
+        <lastModified>2014-01-03 15:38:52</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/03/dinamani-news-jan3-2pm.mp3/article1980606.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1980727</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan3-6pm.mp3&lt;/title&gt;&lt;href&gt;2014/1/3/17/dinamani+news+jan3-6pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[vanisri sivakumar]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan3-6pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-03 17:46:16</publishDate>
+        <lastModified>2014-01-03 17:46:16</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/03/dinamani-news-jan3-6pm.mp3/article1980727.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1981219</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[margazhi vazhipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;MargazhiVazhipadu_day-20.mp3&lt;/title&gt;&lt;href&gt;2014/1/4/0/MargazhiVazhipadu_day-20.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[MargazhiVazhipadu_day-20.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-04 00:28:57</publishDate>
+        <lastModified>2014-01-04 00:30:22</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/04/MargazhiVazhipadu_day-20.mp3/article1981219.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1982248</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan4-10AM.mp3&lt;/title&gt;&lt;href&gt;2014/1/4/9/dinamani+news+jan4-10AM_2.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan4-10AM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-04 10:05:46</publishDate>
+        <lastModified>2014-01-04 10:06:08</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/04/dinamani-news-jan4-10AM.mp3/article1982248.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1982428</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan4-2pm.mp3&lt;/title&gt;&lt;href&gt;2014/1/4/15/dinamani+news+jan4-2pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[vanisri sivakumar]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan4-2pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-04 15:08:30</publishDate>
+        <lastModified>2014-01-04 15:08:30</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/04/dinamani-news-jan4-2pm.mp3/article1982428.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1982584</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan4-6pm.mp3&lt;/title&gt;&lt;href&gt;2014/1/4/17/dinamani+news+jan4-6pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[vanisri sivakumar ]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan4-6pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-04 17:34:01</publishDate>
+        <lastModified>2014-01-04 17:34:01</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/04/dinamani-news-jan4-6pm.mp3/article1982584.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1982908</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[margazhi vazhipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;margazhi vazhipadu_ Day21.mp3&lt;/title&gt;&lt;href&gt;2014/1/5/0/margazhi+vazhipadu_+Day21.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[margazhi vazhipadu_ Day21.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-05 00:43:04</publishDate>
+        <lastModified>2014-01-05 00:43:04</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/05/margazhi-vazhipadu_-Day21.mp3/article1982908.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1982967</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[margazhi vazipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;margazhi vazhipadu -Day22.mp3&lt;/title&gt;&lt;href&gt;2014/1/5/0/margazhi+vazhipadu+-Day22.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[margazhi vazhipadu -Day22.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-05 01:06:01</publishDate>
+        <lastModified>2014-01-05 01:06:01</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/05/margazhi-vazhipadu--Day22.mp3/article1982967.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1985714</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan6-10AM.mp3&lt;/title&gt;&lt;href&gt;2014/1/6/12/dinamani+news+jan6-10AM_1.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan6-10AM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-06 12:23:12</publishDate>
+        <lastModified>2014-01-06 12:23:12</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/06/dinamani-news-jan6-10AM.mp3/article1985714.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1985930</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan6-4pm.mp3&lt;/title&gt;&lt;href&gt;2014/1/6/16/dinamani+news+jan6-4pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[somasundaram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan6-4pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-06 16:11:26</publishDate>
+        <lastModified>2014-01-06 16:11:26</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/06/dinamani-news-jan6-4pm.mp3/article1985930.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1987484</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[margazhi vazhipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;MargazhiVazhipadu-Day23.mp3&lt;/title&gt;&lt;href&gt;2014/1/7/8/MargazhiVazhipadu-Day23.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[MargazhiVazhipadu-Day23.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-07 08:30:27</publishDate>
+        <lastModified>2014-01-07 08:30:27</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/07/MargazhiVazhipadu-Day23.mp3/article1987484.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1987570</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan 7 -10AM.mp3&lt;/title&gt;&lt;href&gt;2014/1/7/11/dinamani+news+jan+7+-10AM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan 7 -10AM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-07 11:22:32</publishDate>
+        <lastModified>2014-01-07 11:22:32</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/07/dinamani-news-jan-7--10AM.mp3/article1987570.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1987908</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan7-6pm.mp3&lt;/title&gt;&lt;href&gt;2014/1/7/17/dinamani+news+jan7-6pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[vanisri sivakumar]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan7-6pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-07 17:27:18</publishDate>
+        <lastModified>2014-01-07 17:27:18</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/07/dinamani-news-jan7-6pm.mp3/article1987908.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1987910</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan 7- 2 pm.mp3&lt;/title&gt;&lt;href&gt;2014/1/7/17/dinamani+news+jan+7-+2+pm_1.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[somasundaram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan 7- 2 pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-07 17:31:19</publishDate>
+        <lastModified>2014-01-07 17:31:19</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/07/dinamani-news-jan-7--2-pm.mp3/article1987910.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1988337</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[margazhi vazhipadu day 24]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;margazhi vazhipadu day-24.mp3&lt;/title&gt;&lt;href&gt;2014/1/8/0/margazhi+vazhipadu+day-24.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottaisriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[margazhi vazhipadu day-24.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-08 00:55:42</publishDate>
+        <lastModified>2014-01-08 00:55:56</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/08/margazhi-vazhipadu-day-24.mp3/article1988337.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1989299</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dnamaninews jan8-10am.mp3&lt;/title&gt;&lt;href&gt;2014/1/8/10/dnamaninews+jan8-10am_1.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dnamaninews jan8-10am.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-08 10:53:09</publishDate>
+        <lastModified>2014-01-08 10:53:09</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/08/dnamaninews-jan8-10am.mp3/article1989299.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1989475</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamnai news jan8 - 2pm.mp3&lt;/title&gt;&lt;href&gt;2014/1/8/15/dinamnai+news+jan8+-+2pm_1.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[somasundaram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamnai news jan8 - 2pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-08 15:20:21</publishDate>
+        <lastModified>2014-01-08 15:20:21</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/08/dinamnai-news-jan8---2pm.mp3/article1989475.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1989624</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan 8-5pm.mp3&lt;/title&gt;&lt;href&gt;2014/1/8/16/dinamani+news+jan+8-5pm_1.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[vanisri sivakumar]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan 8-5pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-08 16:53:10</publishDate>
+        <lastModified>2014-01-08 16:53:10</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/08/dinamani-news-jan-8-5pm.mp3/article1989624.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1990115</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[margazhi vazhipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;margazhi vazhipadu day 25.mp3&lt;/title&gt;&lt;href&gt;2014/1/9/0/margazhi+vazhipadu+day+25.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[margazhi vazhipadu day 25.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-09 00:37:11</publishDate>
+        <lastModified>2014-01-09 00:37:11</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/09/margazhi-vazhipadu-day-25.mp3/article1990115.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1991058</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[margazhi vazhipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Margazhi vazhipadu - day 25.mp3&lt;/title&gt;&lt;href&gt;2014/1/9/9/Margazhi+vazhipadu+-+day+25.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Margazhi vazhipadu - day 25.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-09 09:43:13</publishDate>
+        <lastModified>2014-01-09 09:43:13</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/09/Margazhi-vazhipadu---day-25.mp3/article1991058.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1991129</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan 9 - 10 AM.mp3&lt;/title&gt;&lt;href&gt;2014/1/9/11/dinamani+news+jan+9+-+10+AM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan 9 - 10 AM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-09 11:45:23</publishDate>
+        <lastModified>2014-01-09 11:45:23</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/09/dinamani-news-jan-9---10-AM.mp3/article1991129.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1991450</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan9-2pm.mp3&lt;/title&gt;&lt;href&gt;2014/1/9/16/dinamani+news+jan9-2pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[somasundaram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan9-2pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-09 16:21:39</publishDate>
+        <lastModified>2014-01-09 16:21:39</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/09/dinamani-news-jan9-2pm.mp3/article1991450.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1991467</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan 9 - 5 pm.mp3&lt;/title&gt;&lt;href&gt;2014/1/9/17/dinamani+news+jan+9+-+5+pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[vanisri sivakumar]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan 9 - 5 pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-09 17:02:21</publishDate>
+        <lastModified>2014-01-09 17:02:21</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/09/dinamani-news-jan-9---5-pm.mp3/article1991467.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1991962</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[margazhi vazhipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;Margazhi Vazhipadu Day26.mp3&lt;/title&gt;&lt;href&gt;2014/1/10/0/Margazhi+Vazhipadu+Day26.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[Margazhi Vazhipadu Day26.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-10 00:20:51</publishDate>
+        <lastModified>2014-01-10 00:21:57</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/10/Margazhi-Vazhipadu-Day26.mp3/article1991962.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1993048</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan10-10am.mp3&lt;/title&gt;&lt;href&gt;2014/1/10/9/dinamani+news+jan10-10am.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan10-10am.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-10 09:44:42</publishDate>
+        <lastModified>2014-01-10 09:44:42</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/10/dinamani-news-jan10-10am.mp3/article1993048.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1993313</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamaninews jan 10-2pm.mp3&lt;/title&gt;&lt;href&gt;2014/1/10/15/dinamaninews+jan+10-2pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[somasundaram ]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamaninews jan 10-2pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-10 15:05:23</publishDate>
+        <lastModified>2014-01-10 15:05:23</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/10/dinamaninews-jan-10-2pm.mp3/article1993313.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1993433</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan 10- 5 pm.mp3&lt;/title&gt;&lt;href&gt;2014/1/10/16/dinamani+news+jan+10-+5+pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[vanisri sivakumar]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan 10- 5 pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-10 16:57:57</publishDate>
+        <lastModified>2014-01-10 16:57:57</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/10/dinamani-news-jan-10--5-pm.mp3/article1993433.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1994019</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[margazhi vazhipadu ]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;margazhi vazhipadu - day 27.mp3&lt;/title&gt;&lt;href&gt;2014/1/11/0/margazhi+vazhipadu+-+day+27.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[margazhi vazhipadu - day 27.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-11 01:03:51</publishDate>
+        <lastModified>2014-01-11 08:49:32</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/11/margazhi-vazhipadu---day-27.mp3/article1994019.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1994946</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan11-10am.mp3&lt;/title&gt;&lt;href&gt;2014/1/11/12/dinamani+news+jan11-10am_1.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan11-10am.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-11 12:26:20</publishDate>
+        <lastModified>2014-01-11 12:26:20</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/11/dinamani-news-jan11-10am.mp3/article1994946.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1995193</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan11-5pm.mp3&lt;/title&gt;&lt;href&gt;2014/1/11/17/dinamani+news+jan11-5pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan11-5pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-11 17:04:28</publishDate>
+        <lastModified>2014-01-11 17:04:28</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/11/dinamani-news-jan11-5pm.mp3/article1995193.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1995661</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[margazhi vazhipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;margazhi vazhipadu day28.mp3&lt;/title&gt;&lt;href&gt;2014/1/12/0/margazhi+vazhipadu+day28.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[margazhi vazhipadu day28.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-12 00:55:00</publishDate>
+        <lastModified>2014-01-12 00:55:00</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/12/margazhi-vazhipadu-day28.mp3/article1995661.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1996786</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[margazhi vazhipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;margarzhi vazipadu -day29.mp3&lt;/title&gt;&lt;href&gt;2014/1/12/17/margarzhi+vazipadu+-day29.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[margarzhi vazipadu -day29.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-12 18:03:04</publishDate>
+        <lastModified>2014-01-12 18:05:35</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/12/margarzhi-vazipadu--day29.mp3/article1996786.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1996793</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;COM.ESCENIC.SUMMARIES&gt;&lt;![CDATA[&lt;group&gt;&lt;albumart&gt;&lt;content-summary&gt;&lt;content-type&gt;picture&lt;/content-type&gt;&lt;synthetic-id&gt;f686a56a-025e-4508-ac7a-ec54039cbd6c&lt;/synthetic-id&gt;&lt;fields&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;leadtext&gt;Andal Thiruppavai&lt;/leadtext&gt;&lt;caption&gt;&lt;/caption&gt;&lt;alttext&gt;&lt;/alttext&gt;&lt;/fields&gt;&lt;link&gt;&lt;title&gt;andal_cover.jpg&lt;/title&gt;&lt;href&gt;internal:/article/1955660&lt;/href&gt;&lt;relation&gt;edit-media&lt;/relation&gt;&lt;content-type&gt;image/jpeg&lt;/content-type&gt;&lt;/link&gt;&lt;/content-summary&gt;&lt;/albumart&gt;&lt;/group&gt;]]&gt;&lt;/COM.ESCENIC.SUMMARIES&gt;&lt;ALBUM&gt;&lt;![CDATA[margazhi vazhipadu]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;margazhi vazhipadu - day30.mp3&lt;/title&gt;&lt;href&gt;2014/1/12/18/margazhi+vazhipadu+-+day30.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[margazhi vazhipadu - day30.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-12 18:16:46</publishDate>
+        <lastModified>2014-01-12 18:16:46</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/12/margazhi-vazhipadu---day30.mp3/article1996793.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1998167</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news-13 january.mp3&lt;/title&gt;&lt;href&gt;2014/1/13/11/dinamani+news-13+january.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[somasundaram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news-13 january.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-13 11:49:56</publishDate>
+        <lastModified>2014-01-13 12:08:43</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/13/dinamani-news-13-january.mp3/article1998167.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>1999861</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news-14 mp3.mp3&lt;/title&gt;&lt;href&gt;2014/1/14/12/dinamani+news-14+mp3.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[somasundaram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news-14.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-14 12:28:30</publishDate>
+        <lastModified>2014-01-14 12:36:22</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/14/dinamani-news-14.mp3/article1999861.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>2002662</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamanai news-16-2PM]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani-news_january-16.mp3&lt;/title&gt;&lt;href&gt;2014/1/16/14/dinamani-news_january-16.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[somasundaram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani-news_january-16.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-16 14:14:37</publishDate>
+        <lastModified>2014-01-16 15:48:30</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/16/dinamani-news_january-16.mp3/article2002662.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>2004412</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan17-10AM.mp3&lt;/title&gt;&lt;href&gt;2014/1/17/10/dinamani+news+jan17-10AM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan17-10AM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-17 10:17:05</publishDate>
+        <lastModified>2014-01-17 10:17:05</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/17/dinamani-news-jan17-10AM.mp3/article2004412.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>2004691</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan17-2pm.mp3&lt;/title&gt;&lt;href&gt;2014/1/17/14/dinamani+news+jan17-2pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[somasundaram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan17-2pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-17 14:55:44</publishDate>
+        <lastModified>2014-01-17 14:55:44</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/17/dinamani-news-jan17-2pm.mp3/article2004691.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>2004861</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan 17-6PM.mp3&lt;/title&gt;&lt;href&gt;2014/1/17/17/dinamani+news+jan+17-6PM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[vanisri sivakumar]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan 17-6PM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-17 17:15:41</publishDate>
+        <lastModified>2014-01-17 17:15:41</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/17/dinamani-news-jan-17-6PM.mp3/article2004861.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>2006454</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan 18 - 10 AM.mp3&lt;/title&gt;&lt;href&gt;2014/1/18/10/dinamani+news+jan+18+-+10+AM_1.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan 18 - 10 AM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-18 11:11:57</publishDate>
+        <lastModified>2014-01-18 11:11:57</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/18/dinamani-news-jan-18---10-AM.mp3/article2006454.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>2006781</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan18-5PM.mp3&lt;/title&gt;&lt;href&gt;2014/1/18/16/dinamani+news+jan18-5PM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[vanisri sivakumar]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan18-5PM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-18 16:56:16</publishDate>
+        <lastModified>2014-01-18 16:56:16</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/18/dinamani-news-jan18-5PM.mp3/article2006781.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>2008258</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan19-10am.mp3&lt;/title&gt;&lt;href&gt;2014/1/19/11/dinamani+news+jan19-10am.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan19-10am.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-19 11:55:59</publishDate>
+        <lastModified>2014-01-19 11:55:59</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/19/dinamani-news-jan19-10am.mp3/article2008258.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>2008425</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM/&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani-news_19-5PM.mp3&lt;/title&gt;&lt;href&gt;2014/1/19/16/dinamani-news_19-5PM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[somasundaram.T]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani-news_19-5PM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-19 16:08:34</publishDate>
+        <lastModified>2014-01-19 16:08:34</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/19/dinamani-news_19-5PM.mp3/article2008425.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>2009787</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan-20 - 9 AM.mp3&lt;/title&gt;&lt;href&gt;2014/1/20/8/dinamani+news+jan-20+-+9+AM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan-20 - 9 AM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-20 09:02:35</publishDate>
+        <lastModified>2014-01-20 09:02:35</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/20/dinamani-news-jan-20---9-AM.mp3/article2009787.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>2010082</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[DINAMANI NEWS]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;DINAMANI NEWS JAN 20- 2PM.mp3&lt;/title&gt;&lt;href&gt;2014/1/20/14/DINAMANI+NEWS+JAN+20-+2PM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[SOMASUNDARAM]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[DINAMANI NEWS JAN 20- 2PM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-20 14:48:04</publishDate>
+        <lastModified>2014-01-20 14:48:04</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/20/DINAMANI-NEWS-JAN-20--2PM.mp3/article2010082.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>2010284</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan20-5pm.mp3&lt;/title&gt;&lt;href&gt;2014/1/20/17/dinamani+news+jan20-5pm_1.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[parvathi arunkumar]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan20-5pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-20 17:37:54</publishDate>
+        <lastModified>2014-01-20 17:37:54</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/20/dinamani-news-jan20-5pm.mp3/article2010284.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>2011755</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan21-9 AM.mp3&lt;/title&gt;&lt;href&gt;2014/1/21/8/dinamani+news+jan21-9+AM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan21-9 AM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-21 08:54:08</publishDate>
+        <lastModified>2014-01-21 08:54:08</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/21/dinamani-news-jan21-9-AM.mp3/article2011755.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>2012022</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan 21-2pm.mp3&lt;/title&gt;&lt;href&gt;2014/1/21/14/dinamani+news+jan+21-2pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[somasundaram ]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan 21-2pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-21 14:34:21</publishDate>
+        <lastModified>2014-01-21 14:34:21</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/21/dinamani-news-jan-21-2pm.mp3/article2012022.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>2012200</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan21-6pm.mp3&lt;/title&gt;&lt;href&gt;2014/1/21/17/dinamani+news+jan21-6pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[vanisri sivakumar]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan21-6pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-21 17:37:27</publishDate>
+        <lastModified>2014-01-21 17:37:38</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/21/dinamani-news-jan21-6pm.mp3/article2012200.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>2013638</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan 22 - 9AM.mp3&lt;/title&gt;&lt;href&gt;2014/1/22/8/dinamani+news+jan+22+-+9AM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan 22 - 9AM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-22 09:04:35</publishDate>
+        <lastModified>2014-01-22 09:04:35</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/22/dinamani-news-jan-22---9AM.mp3/article2013638.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>2013961</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan 22-2pm.mp3&lt;/title&gt;&lt;href&gt;2014/1/22/14/dinamani+news+jan+22-2pm_1.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[somasundaram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan 22-2pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-22 14:42:00</publishDate>
+        <lastModified>2014-01-22 14:42:00</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/22/dinamani-news-jan-22-2pm.mp3/article2013961.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>2014110</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan 22- 5 pm.mp3&lt;/title&gt;&lt;href&gt;2014/1/22/16/dinamani+news+jan+22-+5+pm.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[vanisri sivakumar]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan 22- 5 pm.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-22 16:50:25</publishDate>
+        <lastModified>2014-01-22 16:50:25</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/22/dinamani-news-jan-22--5-pm.mp3/article2014110.ece</ArticleURI>
+    </Content>
+    <Content>
+        <articleid>2015501</articleid>
+        <content>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;ARTICLE schema-version=&quot;3&quot;&gt;&lt;ALBUM&gt;&lt;![CDATA[dinamani news]]&gt;&lt;/ALBUM&gt;&lt;BINARY&gt;&lt;![CDATA[&lt;link&gt;&lt;title&gt;dinamani news jan 23 - 9 AM.mp3&lt;/title&gt;&lt;href&gt;2014/1/23/8/dinamani+news+jan+23+-+9+AM.mp3&lt;/href&gt;&lt;relation&gt;com.escenic.edit-media&lt;/relation&gt;&lt;content-type&gt;audio/mpeg&lt;/content-type&gt;&lt;/link&gt;]]&gt;&lt;/BINARY&gt;&lt;ARTIST&gt;&lt;![CDATA[senkottai sriram]]&gt;&lt;/ARTIST&gt;&lt;TITLE&gt;&lt;![CDATA[dinamani news jan 23 - 9 AM.mp3]]&gt;&lt;/TITLE&gt;&lt;/ARTICLE&gt;</content>
+        <sectionID>228</sectionID>
+        <Sectionname>New Articles</Sectionname>
+        <publishDate>2014-01-23 09:03:52</publishDate>
+        <lastModified>2014-01-23 09:03:52</lastModified>
+        <Articletype>audio</Articletype>
+        <ArticleState>published</ArticleState>
+        <ArticleURI>2014/01/23/dinamani-news-jan-23---9-AM.mp3/article2015501.ece</ArticleURI>
+    </Content>
+</niedb55>
